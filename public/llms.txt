@@ -1,0 +1,82 @@
+# Naamas makeup — Generative Engine Optimization Map
+
+> A makeup-focused beauty business seeking an online presence. The specific niche, services offered, and brand identity are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://naamas-makeup-fdd40545.zappy5.app
+מחפשת את האיפור הטוב ביותר לרוזציאה ולעור רגיש? Naamas makeup מזמינה אותך לחוויית יופי מקצועית שמבינה את הצרכים שלך. כנסי עכשיו וגלי איך להאיר את הפנים שלך.
+
+### שירותים
+https://naamas-makeup-fdd40545.zappy5.app/services
+מאפרת מקצועית עם התמחות באיפור לעור רגיש ורוזציאה מציעה שירותים מותאמים אישית. גוון סטפני, מראה טבעי או ערב – קבעי תור לשינוי שידליק את המראה שלך.
+
+### אודות
+https://naamas-makeup-fdd40545.zappy5.app/about
+ב-Naamas makeup, התשוקה היא לחשוף את היופי הייחודי שלך עם האיפור הטוב ביותר לעור רגיש. גלי את הסיפור, הפילוסופיה והמחויבות לאיכות מקצועית שמגדירה כל מפגש.
+
+### צור קשר
+https://naamas-makeup-fdd40545.zappy5.app/contact
+מוכנה להתאהב בעור שלך מחדש? צרי קשר עם Naamas makeup עוד היום לייעוץ אישי על האיפור הטוב ביותר לרוזציאה. השאירי פרטים ונתאים לך מראה חלומי שמרגיש רק שלך.
+
+### תודה רבה - פנייתך התקבלה | Naamas makeup
+https://naamas-makeup-fdd40545.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה שלך התקבלה בהצלחה. צוות Naamas makeup, המומחה בפתרונות איפור מומלץ לרוזציאה וכן איפור לעור רגיש, יחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://naamas-makeup-fdd40545.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://naamas-makeup-fdd40545.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://naamas-makeup-fdd40545.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://naamas-makeup-fdd40545.zappy5.app/contact
+- Endpoint: https://naamas-makeup-fdd40545.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Naamas makeup
+A makeup-focused beauty business seeking an online presence. The specific niche, services offered, and brand identity are yet to be defined.
+
+## Target Audience
+- כלות לעתיד
+- משתתפות אירועים
+- מקצועניות צעירות
+
+## Industry
+Beauty & Makeup
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://naamas-makeup-fdd40545.zappy5.app/sitemap.xml
+- Robots: https://naamas-makeup-fdd40545.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://naamas-makeup-fdd40545.zappy5.app/llms-full.txt
